@@ -1,7 +1,6 @@
 ## I have no idea what I'm doing 
 
 <!-- ![image]() --> 
-![image](https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=white)
 
 # ***alecscripts.com***
 - [**alecscriptsmvc**](https://alecscriptsmvc.azurewebsites.net)  
