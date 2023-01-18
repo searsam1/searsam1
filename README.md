@@ -5,7 +5,7 @@ https://alecscriptsmvc.azurewebsites.net/Js
 
 --> 
 <!-- ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
-[![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://alecscriptsmvc.azurewebsites.net/Js)
+<!-- [![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://alecscriptsmvc.azurewebsites.net/Js) -->
 
 ### searsam1 / Alec Sears  
 ##### Novice Software Engineer
@@ -20,7 +20,7 @@ See:
 ## Alec Scripts' Links: 
 [![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://alecscriptsmvc.azurewebsites.net/Js)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://alecscriptsmvc.azurewebsites.net/cpp)
-
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://alecscriptsmvc.azurewebsites.net/python)
 ![image](https://github-readme-activity-graph.cyclic.app/graph?username=searsam1&theme=minimal)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=searsam1&theme=vue)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=searsam1)
